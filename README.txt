@@ -26,3 +26,7 @@ Returns all solutions of the form a * x = b
 Orbit Multiplication
 orbitMul <start> <multiplier>
 Returns all results that satisfy the form start * mul ^ x for x in the Galois Field 
+
+Projective Plane Generation
+plane
+Generates the projective plane for the current field and outputs the points and lines.
